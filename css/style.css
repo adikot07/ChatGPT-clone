@@ -161,6 +161,9 @@ html {
     flex-direction: column;
     justify-content: space-evenly;
 
+    position: sticky;
+    bottom: 0;
+    
     text-align: center;
     background-color: #343541;
 
